@@ -1,2 +1,2 @@
-# Hello World 
- Primeiro Repositório Versionado 
+# Hello, World! 
+ Primeiro Repositório Versionado.
